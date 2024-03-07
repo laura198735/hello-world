@@ -1,3 +1,4 @@
 # hello-world
 This repository is for practising the GitHub Flow.
-I am studying Information Technology..c#
+About me
+My name is Laura Stirling and I am studying Information Technology..c#
